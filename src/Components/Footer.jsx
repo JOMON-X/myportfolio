@@ -9,7 +9,7 @@ export default function Footer() {
       <StyledFooter>
         <div className='footer'>
             <h3>
-                <span className='cr'> © ARES-X  | </span>
+                <span className='cr'> © 2024 ARES-X  | </span>
                 <span className='ds'>Designed by</span> <span className='mj'>Mohammed jouhar</span>
                 </h3>
         </div>
